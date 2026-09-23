@@ -1,0 +1,46 @@
+
+
+    body{
+
+margin: 0px;
+padding: 0px;
+font-family: Verdana, serif;
+
+}
+
+header {
+
+height: 70px;
+
+line-height: 70px;
+padding-left: 40px;
+
+background: #c51028;
+color: #FFFFFF;
+
+font-size: 3em;
+font-weight: bold;
+
+margin-bottom: 50px;
+
+}
+
+section{
+    background:#4c4a50;
+
+}
+
+article{
+
+display: flex;
+justify-content:flex-start;
+}
+img{
+border: dashed 3px #b72222;
+margin: 10px;
+padding: 50px;
+}
+img{
+    width: 100px;
+    height: auto;
+}
